@@ -14,8 +14,8 @@
 	<footer id="colophon" class="site-footer" role="contentinfo">
         <div class="site-info">
             <a href="<?php $my_theme = wp_get_theme(); echo $my_theme->get( 'ThemeURI' ); ?>">
-            <?php _e('Striker WordPress Starter Theme','striker'); ?></a>
-            <?php echo __( 'Powered By WordPress ', 'striker' ); ?>
+            <?php _e('Blog UnggasID',''); ?></a>
+            <?php echo __( 'Powered By UnggasID.com ', '' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon .site-footer -->
      <a href="#top" id="smoothup"></a>

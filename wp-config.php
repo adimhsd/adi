@@ -1,4 +1,10 @@
 <?php
+define( 'WP_CACHE', true );
+
+
+
+
+
 /**
  * Konfigurasi dasar WordPress.
  *
@@ -16,13 +22,13 @@
 
 // ** Pengaturan MySQL - Anda dapat memperoleh informasi ini dari web host Anda ** //
 /** Nama basis data untuk WordPress */
-define( 'DB_NAME', 'adi' );
+define( 'DB_NAME', 'u758783911_adi' );
 
 /** Nama pengguna basis data MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'u758783911_adimhsd' );
 
 /** Kata sandi basis data MySQL */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '2H4r3can' );
 
 /** Nama host MySQL */
 define( 'DB_HOST', 'localhost' );
